@@ -1,5 +1,7 @@
 # REV10 BHR Debugging
 
+CONFIG_REV10_SECURE_BHR as at 2016/11/15 eg tag 20161115-RC2b
+
 ## Debugging the SIM900 and OTSIM900Link
 ### Basic Debug Using LEDs On SIM900 Module
 | LED | Status | Meaning | Expected Behaviour |
