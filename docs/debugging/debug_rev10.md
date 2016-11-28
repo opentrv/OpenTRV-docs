@@ -8,7 +8,7 @@ CONFIG_REV10_SECURE_BHR as at 2016/11/15 eg tag 20161115-RC2b
 | :--- | :--- | :--- | :--- |
 | Green, next to headers. | Solid on/off | LED on means the SIM900 has power. |  On when power applied to REV10. |
 | Red, near board corner. | Solid on/off | LED on means SIM900 is switched on. | On during normal operation* |
-| Green, near board corner. | Fast flashing** | SIM900 searching for a network. | When newly switched on, or know signal. |
+| Green, near board corner. | Fast flashing** | SIM900 searching for a network. | When newly switched on, or no signal. |
 | Green, near board corner. | Slow flashing*** | SIM900 registered to a network. | This is the expected behaviour during normal operation. |
 
 \*   On startup will turn off briefly for a couple of seconds. During normal operation it will infrequently be turned off for a couple of seconds.
