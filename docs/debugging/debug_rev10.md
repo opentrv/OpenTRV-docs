@@ -9,20 +9,21 @@
 | Green, near board corner. | Fast flashing** | SIM900 searching for a network. | When newly switched on, or know signal. |
 | Green, near board corner. | Slow flashing*** | SIM900 registered to a network. | This is the expected behaviour during normal operation. |
 
-```
-*   On startup will turn off briefly for a couple of seconds. During normal operation it will infrequently be turned off for a couple of seconds.
-**  Flashing multiple times a second.
-*** Flashing ~once a second or slower.
-```
+\*   On startup will turn off briefly for a couple of seconds. During normal operation it will infrequently be turned off for a couple of seconds.
+
+\**  Flashing multiple times a second.
+
+\*\** Flashing ~once a second or slower.
+
 
 ### Physical Connection and Serial Settings
 1. Connect hookup leads to the GND (black wire) and RX (yellow wire) lines of an FTDI cable, as shown:
-<photo of FTDI cable connections>
+![alt text](https://raw.githubusercontent.com/opentrv/OpenTRV-docs/master/docs/debugging/debug_ftdi_listenWithNoReset.jpg "FTDI cable connections")
 1. Connect the GND lead to the REV10 ground and the RX lead to one of the pins shown:
     1. To read the REV10 Tx line:
-    <photo of REV10 output connection>
+    ![alt text](https://raw.githubusercontent.com/opentrv/OpenTRV-docs/master/docs/debugging/debug_rev10_rev10Tx.jpg "REV10 Tx connection")
     1. To read the SIM900 Tx line:
-    <photo of SIM900 output connection>
+    ![alt text](https://raw.githubusercontent.com/opentrv/OpenTRV-docs/master/docs/debugging/debug_rev10_sim900Tx.jpg "SIM900 Tx connection")
 1. Connect the FTDI cable to a computer.
 1. Start up prefered serial monitor (Arduino serial monitor, minicom, screen, teraterm etc.) and set to 9600 baud, 8n1.
 1. The radio is used infrequently during normal operation an so it may take several minutes before an output appears.
