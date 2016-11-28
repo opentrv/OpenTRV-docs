@@ -15,8 +15,8 @@
 
 \*\** Flashing ~once a second or slower.
 
-
-### Physical Connection and Serial Settings
+### Sniffing the REV10-SIM900 Serial Connection
+#### Physical Connection and Serial Settings
 1. Connect hookup leads to the GND (black wire) and RX (yellow wire) lines of an FTDI cable, as shown:
 ![alt text](https://raw.githubusercontent.com/opentrv/OpenTRV-docs/master/docs/debugging/debug_ftdi_listenWithNoReset.jpg "FTDI cable connections")
 1. Connect the GND lead to the REV10 ground and the RX lead to one of the pins shown:
@@ -28,11 +28,11 @@
 1. Start up prefered serial monitor (Arduino serial monitor, minicom, screen, teraterm etc.) and set to 9600 baud, 8n1.
 1. The radio is used infrequently during normal operation an so it may take several minutes before an output appears.
 
-### Example Outputs During Normal Operation
-#### Startup
+#### Example Outputs During Normal Operation
+##### Startup
 *TBA*
 
-#### Sending Packets
+##### Sending Packets
 **REV10:**
 ```
 �AT+CIPSTATUS
