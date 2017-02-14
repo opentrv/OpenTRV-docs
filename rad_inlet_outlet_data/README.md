@@ -18,3 +18,6 @@
 
 ## Counter
 This is an optical counter on the gas meter, measuring in 10L increments
+
+
+Data provided by Andy J with permission for use in the OpenTRV project.
