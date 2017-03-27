@@ -2,19 +2,17 @@ The 8th Annual Internet of Things European Summit (2017/04/20): Abstract
 
 Tech Talk: Cutting energy cost and carbon footprint with IoT
 
-Saving real money (and carbon) for real people
-not just fat rich blokes obsessed with tech.
 
-IoT will have come of age when, at least in the home,
-it's stuff that "just works" and that eases the complexity of everyday living,
-as well as for example improving comfort and cutting down on bills.
 
-OpenTRV has been working on taking the pain and cost out of home heating,
-with savings of hundreds of Euros per home per year possible,
-while improving comfort and letting people get on with things important to them,
-and without sacrificing privacy or requiring a smartphone...
+OpenTRV has a mission to knock several percent off Europe's
+entire carbon footprint by 2050, and IoT turns out to be a key
+component of that strategy.  OpenTRV is targeting home heating
+efficiency with a simple solution with one year financial payback,
+and without sacrificing privacy or making lives more complicated.
+OpenTRV sees that energy efficiency almost of necessity implies
+complexity, which we already don't deal with well, and which IoT
+can help tackle.
 
-But we're also having fun with bus shelters and energy harvesting.
 
 
 https://eu-ems.com/agenda.asp?event_id=3316&page_id=8015
