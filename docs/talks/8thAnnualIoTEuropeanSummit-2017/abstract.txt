@@ -6,11 +6,12 @@ Tech Talk: Cutting energy cost and carbon footprint with IoT
 
 OpenTRV has a mission to knock several percent off Europe's
 entire carbon footprint by 2050, and IoT turns out to be a key
-component of that strategy.  OpenTRV is targeting home heating
-efficiency with a simple solution with one year financial payback,
+component of its strategy.  OpenTRV is targeting home heating
+efficiency with its simple solution with a one year financial payback
+targeting the current 50% wasted energy money and carbon,
 and without sacrificing privacy or making lives more complicated.
 OpenTRV sees that energy efficiency almost of necessity implies
-complexity, which we already don't deal with well, and which IoT
+complexity, which people already don't deal with well, and which IoT
 can help tackle.
 
 
