@@ -1,0 +1,20 @@
+The 8th Annual Internet of Things European Summit (2017/04/20): Abstract
+
+Tech Talk: Cutting energy cost and carbon footprint with IoT
+
+
+
+OpenTRV has a mission to knock several percent off Europe's
+entire carbon footprint by 2050, and IoT turns out to be a key
+component of its strategy.  OpenTRV is targeting home heating
+efficiency with its simple solution with a one year financial payback
+targeting the current 50% wasted energy money and carbon,
+and without sacrificing privacy or making lives more complicated.
+OpenTRV sees that energy efficiency almost of necessity implies
+complexity, which people already don't deal with well, and which IoT
+can help tackle.
+
+
+
+https://eu-ems.com/agenda.asp?event_id=3316&page_id=8015
+https://eu-ems.com/speakers.asp?event_id=3316&page_id=8016#s11284
