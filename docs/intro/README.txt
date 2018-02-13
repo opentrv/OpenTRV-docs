@@ -1,1 +1,1 @@
-Introductory documents to aspects of OpenTRV.
+Introductory documents for various aspects of OpenTRV.
